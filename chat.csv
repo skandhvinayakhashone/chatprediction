@@ -1,0 +1,55 @@
+qn,intent
+who are you?,name
+what is your name?,name
+what are you?,name
+whom am I speaking to?,name
+may I know name?,name
+who built you?,developer
+who developed you?,developer
+who created you,developer
+your creator,developer
+tell me about your  courses?,courses
+what courses do you offer?,courses
+may I know about the course?,courses
+may I know about the available courses,courses
+what courses are available,courses
+what kind of courses do you offer,courses
+types of courses,courses
+types of programs,courses
+what kind of programs do you offer,courses
+may I know about the available programs,courses
+what courses do you teach,courses
+list of courses,courses
+course list,courses
+course available,courses
+programs,courses
+courses,courses
+what all do you offer,courses
+tell me about certificate program,ecp
+provide the syllabus for certifiate program,ecp
+syllabus of certificate program,ecp
+can I have the curriculum of certificate program,ecp
+what does certificate course covers,ecp
+what does certificate program covers,ecp
+course content of certificte program,ecp
+why certificate program,ecp_detail
+what is certificate program,ecp_detail
+duration of certificate program,ecp_duration
+how many hours is certificate program,ecp_duration
+tell me about ep diploma,epd
+tell me about diploma course ,epd
+may I know about ep diploma,epd
+syllabus of ep diploma,epd
+can I know the details for diploma course,epd
+syllabus of diploma course ,epd
+may I know about diploma course,epd
+duration of diploma,epd_duration
+duration of ep diploma,epd_duration
+how many hours is diploma program,epd_duration
+how many hours is ep diploma program,epd_duration
+what is capsule course,cc
+tell me the details for capsule course,cc
+may I know about the capsule course,cc
+details of capsule course,cc
+duration of capsule course,cc_duration
+how many hours is capsule course,cc_duration
